@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wizard2498
+- 👋 Hi, I’m Michael.
 - 👀 I’m interested in ai and machine learning and many other fun with python and c++.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on automation and machine learning.
