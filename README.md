@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about becoming an all-rounder — m
 
 ## 🌱 Currently Learning
 - Python for AI and Data Science
-- Creative design tools (Figma, Blender)
 
 > _“The future belongs to those who learn more skills and combine them in creative ways.”_ — Robert Greene
 
