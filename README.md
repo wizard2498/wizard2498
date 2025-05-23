@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Michael!
 
-<!--
-**wizard2498/wizard2498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about becoming an all-rounder — mastering **maths**, **arts**, **science**, and **technology** — like Tony Stark (but without the arc reactor... for now ⚙️).
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 🔭 Exploring the latest in **AI** 
+- 📚 Learning to master **time management**, **coding**, and **creative thinking**
+- 🎯 Building projects that blend **science, creativity, and engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 My Interests
+- Artificial Intelligence 🤖
+- Physics & Engineering 🛠️
+- Learning hacks & productivity techniques ⏱️
+
+## 🌱 Currently Learning
+- Python for AI and Data Science
+- Creative design tools (Figma, Blender)
+
+> _“The future belongs to those who learn more skills and combine them in creative ways.”_ — Robert Greene
+
+Thanks for visiting! Have a great day 😄
