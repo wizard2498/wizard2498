@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Michael!
+# 👋 Hi there, I'm Neelmani!
 
 Welcome to my GitHub profile! I'm passionate about becoming an all-rounder — mastering **maths**, **arts**, **science**, and **technology** — like Tony Stark (but without the arc reactor... for now ⚙️).
 
